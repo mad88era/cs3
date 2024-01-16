@@ -78,7 +78,7 @@ function generateRandomPassword(length, includeLowercase, includeUppercase, incl
   // use the variable with the listed numeric characters below
   var numericCharacters = "0123456789";
   // use the variable with the listed special characters below
-  var specialCharacters = "!@#$%^&*()-_=+[]{}|;:'\",.<>/?" ; 
+  var specialCharacters = "!@#$%^&*()-_=+[]{}|;:',.<>/?" ; 
 
   //Initialize the characters set to use
   // the variable is looking at the character set criteria listed below in the IF items 
