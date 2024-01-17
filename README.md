@@ -30,7 +30,54 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 
-Mock-Up
-The following image shows the web application's appearance and functionality:
+## Screenshots
+![Alt text](image.png)
 
-A screenshot displays a sample password generator.
+## Review links
+
+Deployed Application: https://mad88era.github.io/cs3/
+
+URL GitHub Repository: https://github.com/mad88era/cs3
+
+## Acknowledgements:
+ Worked with Marisol Aranda in discord study group
+
+## Resources
+
+JavaScript Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
+
+var: https://developer.mozilla.org/en-US/docs/Web/API/Window/confirm
+
+function: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function
+
+Strict Equality: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality
+
+Binary Logival Operators OR - ||: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR
+
+isNaN: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isNaN
+
+alert: https://developer.mozilla.org/en-US/docs/Web/API/Window/alert
+
+return: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return
+
+confirm () method: https://developer.mozilla.org/en-US/docs/Web/API/Window/confirm
+
+Logical NOT (!): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_NOT
+
+Logical AND (&&): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND
+
+generateRandomPassword: https://dev.to/code_mystery/random-password-generator-using-javascript-6a
+
+prompt: https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt
+
+parseInt(): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt
+
+Addtion Assignments (+=): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Addition_assignment
+
+for: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in
+
+Math.floor(): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor
+
+Math.Random: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+
+String.Prototype.charAt(): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charAt
