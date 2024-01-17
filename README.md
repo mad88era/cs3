@@ -35,6 +35,7 @@ THEN the password is either displayed in an alert or written to the page
 
 
 ## Screenshots
+![Alt text](<Screenshot 2024-01-16 182945.png>)
 
 
 ## Review links
